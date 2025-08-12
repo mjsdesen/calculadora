@@ -31,7 +31,7 @@ O projeto é composto pelos seguintes arquivos:
 
 ## Captura de Tela
 
-![Captura de Tela da Calculadora](screenshot.png)
+![Captura de Tela da Calculadora](calculadora.png)
 
 ## Tecnologias Utilizadas
 
@@ -41,7 +41,7 @@ O projeto é composto pelos seguintes arquivos:
 
 ## Autor
 
-- [Seu Nome](https://github.com/seu-usuario)
+- [Marcos Santos](https://github.com/mjsdesen)
 
 ## Licença
 
